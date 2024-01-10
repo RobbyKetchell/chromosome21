@@ -1,7 +1,10 @@
 {
   "name": "chromosome21",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.0",
+  "private": false,
+  "description": "A place to admire chromosome 21",
+  "author": "Robby Ketchell - robby@ketchell.dev",
+  "license": "MIT",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

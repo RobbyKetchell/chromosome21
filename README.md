@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Description
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a place to admire the magic of chromosome 21
 
 ## Available Scripts
 
