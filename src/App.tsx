@@ -1,12 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+import background from "./img/chromosomes.jpeg";
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-     Chromosome21
-    </div>
+    <div className={'App'} style={{ backgroundImage: `no-repeat url(${background})` }} />
   );
 }
 
